@@ -2,7 +2,7 @@
 ## MPM and LBM-DEM
 > Krishna Kumar (2018), UCLA, California. 13th February 2018.
 
-[https://kks32-slides.github.io/2018-texas/#/](https://kks32-slides.github.io/2018-texas/#/)
+[https://kks32-slides.github.io/2018-ucla/#/](https://kks32-slides.github.io/2018-ucla/#/)
 
 [![License](https://img.shields.io/badge/license-cc--by--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
 
